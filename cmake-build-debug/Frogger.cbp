@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Frogger"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\opt\;CMake Files\..\..\..\..\opt\homebrew\;CMake Files\..\..\..\..\opt\homebrew\lib\;CMake Files\..\..\..\..\opt\homebrew\lib\cmake\;CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Frogger">
+				<Option output="/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Frogger" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Makefile&quot;  VERBOSE=1 Frogger"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Frogger/fast">
+				<Option output="/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Frogger" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Makefile&quot;  VERBOSE=1 Frogger/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/alexisrodriguez/CLionProjects/Frogger/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Background.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Background.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Bulldozer.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Bulldozer.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Collision.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Collision.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Const_Node_Iterator.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Const_Node_Iterator.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Direction.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Direction.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Frog.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Frog.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/FrogLife.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/FrogLife.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/FrogLifeTracker.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/FrogLifeTracker.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/FrogWin.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/FrogWin.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/FrogWinBounds.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/FrogWinBounds.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/FrogWinGameState.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/FrogWinGameState.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/FrogWinSprite.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/FrogWinSprite.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Frogger.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Frogger.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/FroggerGameState.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/FroggerGameState.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/FroggerSoundManager.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/FroggerSoundManager.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/GameTitle.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/GameTitle.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/GreenShrub.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/GreenShrub.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Grid.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Grid.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/LinkedList.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/LinkedList.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Log.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Log.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/LogLane.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/LogLane.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/MusicStates.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/MusicStates.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Node.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Node.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Node_Iterator.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Node_Iterator.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/PinkCar.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/PinkCar.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/PurpleShrub.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/PurpleShrub.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Queue.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Queue.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Shrub.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Shrub.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Speed.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Speed.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/SplashScreenGameState.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/SplashScreenGameState.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Stack.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Stack.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/States.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/States.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/StaticBackground.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/StaticBackground.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/StaticSplashBackground.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/StaticSplashBackground.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Text.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Text.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Truck.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Truck.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Vehicle.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/Vehicle.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/WhiteCar.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/WhiteCar.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/YellowCar.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/YellowCar.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/main.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/../../../../opt/homebrew/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/../../../../opt/homebrew/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/../../../../opt/homebrew/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/../../../../opt/homebrew/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/alexisrodriguez/CLionProjects/Frogger/../../../../opt/homebrew/lib/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
